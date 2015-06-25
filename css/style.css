@@ -1,0 +1,52 @@
+@import url('reset.css');
+
+body
+{
+  color: #000;
+  font-family: 'Open Sans';
+  font-size: 100%;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+*, *:before, *:after
+{
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+div
+{
+  float: left;
+  margin: 30px;
+}
+
+table
+{
+  background: #333;
+  border: 2px solid #999;
+  border-spacing: 1px;
+  border-collapse: separate;
+  display: table;
+}
+
+  td
+  {
+    background: #666;
+    font-size: 12px;
+    font-weight: bold;
+    height: 80px;
+    text-align: center;
+    width: 120px;
+  }
+
+    td.root   {background: #9f9;}
+    td.level1 {background: #9fc;}
+    td.level2 {background: #9ff;}
+    td.level3 {background: #9cf;}
+    td.level4 {background: #99f;}
+    td.level5 {background: #c9f;}
+    td.level6 {background: #f9f;}
