@@ -5,4 +5,4 @@ Created by Squabbler
 http://github.com/Squabbler
 
 Demo
-http://kai.pw/Dungeon_Map_Generator/
+http://squabbler.github.io/Dungeon_Map_Generator
